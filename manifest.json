@@ -1,0 +1,15 @@
+{
+    "name": "Football PWA - Alvin",
+    "short_name": "Football",
+    "description": "Aplikasi Football PWA - Alvin Indra Pratama",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#40424a",
+    "theme_color": "#40424a",
+    "icons": [{
+        "src": "images/icon-512.jpg",
+        "sizes": "512x512",
+        "type": "image/jpg"
+    }],
+    "gcm_sender_id": "178212190123"
+}
